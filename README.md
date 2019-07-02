@@ -106,7 +106,7 @@ Masked value: (Hel-loW)
 ```
 
 ### dropSpecialCharacters (boolean)
-   You can choose if mask will drop special character in the model, or not, default value true
+   You can choose if mask will drop special character in the model, or not, default value is true
 ##### Usage
 
 ```html
